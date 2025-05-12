@@ -11,3 +11,9 @@
 ###
 
 <p align="middle">Todo lo presente dentro del repositorio, incluido el propio repositorio, fueron creados por Pablo V.</p>
+
+###
+
+<h2 align="middle">Accidente</h2>
+
+<p align="middle">El nombre del primer commit deberia ser "Todos los archivos añadidos", no "Añadidos todos los archivos necesarios"</p>
